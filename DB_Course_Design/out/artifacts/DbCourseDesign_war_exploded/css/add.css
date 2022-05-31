@@ -1,0 +1,218 @@
+.right_more{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.help_message_title{
+    font-size: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    padding:5px;
+}
+.sno_help{
+    float: right;
+}
+.title_help{
+    margin-left: 10px;
+}
+.detail_title{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: #0483d4;
+    line-height: 60px;
+    padding-left: 100px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 5px;
+    min-height: 60px;
+}
+.fu-title{
+    font-size: 20px;
+    text-align: right;
+}
+.people-account{
+    font-size: 13px;
+    display: inline-block;
+    padding-right: 20px;
+}
+.send-time{
+    font-size: 13px;
+    display: inline-block;
+}
+.article-content{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.operation{
+    font-size: 14px;
+    text-align: right;
+    margin-top: 20px;
+}
+.mess-status{
+    font-size: 13px;
+    display: inline-block;
+}
+.new_course_search_div{
+    margin-bottom: 30px;
+}
+.tno-search{
+    width: 15%;
+    display: inline-block;
+    margin-right: 20px;
+    height: 34px;
+}
+.college-search{
+    width: 15%;
+    display: inline-block;
+    margin-right: 20px;
+}
+.search_btn{
+    height: 34px;
+    position: relative;
+    bottom: 2px;
+}
+.course_cno{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.course_college{
+    font-size:20px;
+    margin-bottom: 10px;
+}
+.course_description{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.course_operation{
+    font-size: 20px;
+    float: right;
+}
+.content{
+    width:80%;
+    height: 300px;
+    font-size: 15px;
+}
+.info-item{
+    margin-top: 20px;
+}
+.run-week{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 90px;
+}
+.run-eachtime{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 90px;
+}
+.run-day{
+    margin-right: 20px;
+}
+.run-jie{
+    margin-right: 20px;
+}
+.arragementinfo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.selection_list{
+    margin-bottom: 40px;
+}
+.selection_list li{
+    font-size: 19px;
+    display: inline;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #91ea91;
+    color: #fff;
+}
+.add_cname{
+    font-size: 18px;
+    display: inline-block;
+    width: 24%;
+}
+.add_cno{
+    font-size: 18px;
+    display: inline-block;
+    width: 23%;
+}
+.add_semester{
+    font-size: 18px;
+    display: inline-block;
+    width: 27%;
+}
+.add_capacity{
+    font-size: 18px;
+    display: inline-block;
+    width: 24%;
+}
+.add_title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.add_title h3{
+    width: 24%;
+    display: inline-block;
+}
+.course_item{
+    background-color: #c4eae0;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.select_list_item{
+    font-size: 10px;
+    background-color: #7dbbb9;
+    padding: 8px;
+    width: 84%;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.select_list_control{
+    font-size: 20px;
+    display: inline-block;
+    float: right;
+    position: relative;
+    top: -3px;
+    right: 5px;
+}
+.semester_name{
+    font-size: 17px;
+    display: inline-block;
+    width: 30%;
+}
+.major_name{
+    font-size: 17px;
+    display: inline-block;
+    width: 30%;
+}
+.cname_have_selected{
+    font-size: 18px;
+    margin-right: 30px;
+    line-height: 34px;
+    display: inline-block;
+}
+.have_selected{
+    border: 1px solid #00ffbc;
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    background-color: #00f0ff1f;
+}
+.clocation_have_selected{
+    font-size: 18px;
+    margin-right: 30px;
+    line-height: 34px;
+    display: inline-block;
+    float: right;
+}

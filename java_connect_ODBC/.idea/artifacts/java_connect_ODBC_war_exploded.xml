@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java_connect_ODBC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_connect_ODBC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="java_connect_ODBC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java_connect_ODBC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.3" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: junit:junit:4.12" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.22" />
+        </element>
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+    </root>
+  </artifact>
+</component>
